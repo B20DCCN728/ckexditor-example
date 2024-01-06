@@ -2,7 +2,7 @@
 
 <template>
   <div id="app">
-    <h1>PMC Wagner Group</h1>
+    <h1>CKEditor Example Vue 3 Vite</h1>
 		<div class="editor-wrapper"> 
         <ContentEditor/>
         </div> 
