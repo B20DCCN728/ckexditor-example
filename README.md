@@ -1,10 +1,14 @@
-# test-1
+# CKEditor Vue 3 Vite Example
 
-This template should help get you started developing with Vue 3 in Vite.
+This README provides a quick guide to jumpstart your development using CKEditor within a Vue 3 project powered by Vite. Follow the steps below for a seamless setup and customization.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+For an enhanced development experience, consider using the following tools:
+
+1. **VSCode**: [Download VSCode](https://code.visualstudio.com/)
+2. **Volar**: Install the Volar extension from the VSCode marketplace. You can find it [here](https://marketplace.visualstudio.com/items?itemName=Vue.volar). Additionally, disable Vetur if enabled.
+3. **TypeScript Vue Plugin (Volar)**: Install this plugin from the VSCode marketplace. Find it [here](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
