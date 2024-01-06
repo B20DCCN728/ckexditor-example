@@ -1,6 +1,6 @@
 # CKEditor Vue 3 Vite Example
 
-This README provides a quick guide to jumpstart your development using CKEditor within a Vue 3 project powered by Vite. Follow the steps below for a seamless setup and customization.
+This README provides a quick guide to jumpstart your development using CKEditor within a Vue 3 project powered by Vite. Follow the steps below for a seamless setup and customization. Everything you need is [here](https://ckeditor.com/)
 
 ![Local Image](./src/assets/readme/readme.png)
 
