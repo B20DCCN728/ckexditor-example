@@ -2,6 +2,8 @@
 
 This README provides a quick guide to jumpstart your development using CKEditor within a Vue 3 project powered by Vite. Follow the steps below for a seamless setup and customization.
 
+![Local Image](./src/assets/readme/readme.png)
+
 ## Recommended IDE Setup
 
 For an enhanced development experience, consider using the following tools:
